@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Akash C R 👋
 
-<!--
-**AKASH-CR/AKASH-CR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Machine Learning Engineer with a background in Electronics & Communication Engineering.
+I enjoy building AI-driven solutions that solve real-world problems, especially in agriculture,
+healthcare, and industrial systems.
 
-Here are some ideas to get you started:
+I work at the intersection of **Machine Learning, Deep Learning, Computer Vision, and Python**,
+with hands-on experience in end-to-end ML projects — from data preprocessing to deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, SQL  
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- **Deep Learning & CV:** CNN, YOLO, OpenCV, MediaPipe  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** VS Code, PyCharm, Google Colab, Power BI  
+- **Deployment:** Streamlit, Flask (basic)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Machine Failure Prediction
+- Built an ML model to predict different types of machine failures.
+- Achieved **99% accuracy** using Random Forest.
+- Features include temperature, torque, rotational speed, and tool wear.
+- Deployed using **Streamlit**.
+
+🔗 Repository: https://github.com/AKASH-CR/Machine-Failure-Prediction
+
+---
+
+### 🔹 Plant Disease Detection & Pesticide Spraying Robot
+- Trained a **YOLOv8** model on real leaf images.
+- Achieved ~**89% accuracy** in disease detection.
+- Integrated ML predictions with a robot for automated pesticide spraying.
+
+---
+
+### 🔹 Brain Tumor Detection
+- CNN-based classification of MRI images into four tumor categories.
+- Achieved **94% accuracy** using deep learning.
+
+---
+
+## 🎓 Experience & Internships
+- Data Science Intern – Luminar Technolab  
+- ML Intern – CognoRise Infotech  
+
+Worked on supervised ML, deep learning, NLP, computer vision, and Power BI dashboards.
+
+---
+
+## 🌱 Interests
+- AI in Agriculture  
+- Healthcare AI  
+- Real-time Computer Vision systems  
+- Practical ML deployment
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/akash-c-r-ab3aa7257
+- GitHub: https://github.com/AKASH-CR
+
